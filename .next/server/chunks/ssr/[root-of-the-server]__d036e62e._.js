@@ -251,30 +251,6 @@ const __TURBOPACK__default__export__ = {
     blurHeight: 3
 };
 }}),
-"[project]/public/1.question/blur-circle-1.png (static in ecmascript)": ((__turbopack_context__) => {
-
-var { g: global, __dirname } = __turbopack_context__;
-{
-__turbopack_context__.v("/_next/static/media/blur-circle-1.a3aa990c.png");}}),
-"[project]/public/1.question/blur-circle-1.png.mjs { IMAGE => \"[project]/public/1.question/blur-circle-1.png (static in ecmascript)\" } [app-ssr] (structured image object, ecmascript)": ((__turbopack_context__) => {
-"use strict";
-
-var { g: global, __dirname } = __turbopack_context__;
-{
-__turbopack_context__.s({
-    "default": (()=>__TURBOPACK__default__export__)
-});
-var __TURBOPACK__imported__module__$5b$project$5d2f$public$2f$1$2e$question$2f$blur$2d$circle$2d$1$2e$png__$28$static__in__ecmascript$29$__ = __turbopack_context__.i("[project]/public/1.question/blur-circle-1.png (static in ecmascript)");
-;
-const __TURBOPACK__default__export__ = {
-    src: __TURBOPACK__imported__module__$5b$project$5d2f$public$2f$1$2e$question$2f$blur$2d$circle$2d$1$2e$png__$28$static__in__ecmascript$29$__["default"],
-    width: 632,
-    height: 632,
-    blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAAAs0lEQVR42nVOOw6CQBR8m81yAKHSilvYudpKxNIjaIiHQCIewfhr/IQDGDFgAncQYwt21nsC3+52KsUkk5l5bwZ6XQ7RbkGeyZS+bkMDwSSPtiHhvANw2szJO+8bIm+ZIrNsBeRSO64DAkU8oSJvomm2RdYYaSBH7X4eU6jSAdOXypwhfM0tu0xc9h3wfwKPq1dfccEKNTJz/ox09EjOORxWISnwU4l1VeqyIvbofhkQ6X0AW7V4GwxXrwgAAAAASUVORK5CYII=",
-    blurWidth: 8,
-    blurHeight: 8
-};
-}}),
 "[project]/public/1.question/blur-circle-2.png (static in ecmascript)": ((__turbopack_context__) => {
 
 var { g: global, __dirname } = __turbopack_context__;
@@ -513,7 +489,6 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$component$2f$layout$2
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/image.js [app-ssr] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$public$2f$1$2e$question$2f$q1$2d$up$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$public$2f$1$2e$question$2f$q1$2d$up$2e$png__$28$static__in__ecmascript$2922$__$7d$__$5b$app$2d$ssr$5d$__$28$structured__image__object$2c$__ecmascript$29$__ = __turbopack_context__.i('[project]/public/1.question/q1-up.png.mjs { IMAGE => "[project]/public/1.question/q1-up.png (static in ecmascript)" } [app-ssr] (structured image object, ecmascript)');
 var __TURBOPACK__imported__module__$5b$project$5d2f$public$2f$1$2e$question$2f$q1$2d$down$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$public$2f$1$2e$question$2f$q1$2d$down$2e$png__$28$static__in__ecmascript$2922$__$7d$__$5b$app$2d$ssr$5d$__$28$structured__image__object$2c$__ecmascript$29$__ = __turbopack_context__.i('[project]/public/1.question/q1-down.png.mjs { IMAGE => "[project]/public/1.question/q1-down.png (static in ecmascript)" } [app-ssr] (structured image object, ecmascript)');
-var __TURBOPACK__imported__module__$5b$project$5d2f$public$2f$1$2e$question$2f$blur$2d$circle$2d$1$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$public$2f$1$2e$question$2f$blur$2d$circle$2d$1$2e$png__$28$static__in__ecmascript$2922$__$7d$__$5b$app$2d$ssr$5d$__$28$structured__image__object$2c$__ecmascript$29$__ = __turbopack_context__.i('[project]/public/1.question/blur-circle-1.png.mjs { IMAGE => "[project]/public/1.question/blur-circle-1.png (static in ecmascript)" } [app-ssr] (structured image object, ecmascript)');
 var __TURBOPACK__imported__module__$5b$project$5d2f$public$2f$1$2e$question$2f$blur$2d$circle$2d$2$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$public$2f$1$2e$question$2f$blur$2d$circle$2d$2$2e$png__$28$static__in__ecmascript$2922$__$7d$__$5b$app$2d$ssr$5d$__$28$structured__image__object$2c$__ecmascript$29$__ = __turbopack_context__.i('[project]/public/1.question/blur-circle-2.png.mjs { IMAGE => "[project]/public/1.question/blur-circle-2.png (static in ecmascript)" } [app-ssr] (structured image object, ecmascript)');
 var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$store$2f$store$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/src/app/store/store.js [app-ssr] (ecmascript)");
 'use client';
@@ -524,155 +499,130 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$store$2f$store
 ;
 ;
 ;
-;
 function QuestionPage({ questionIndex, nextStep }) {
     const questionData = (0, __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$store$2f$store$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useQuestionStore"])((state)=>state);
     const psyData = (0, __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$store$2f$store$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["usePsyStore"])((state)=>state);
+    const question = questionData.questions[(questionIndex + 1).toString()];
     const clickAnswer = function(option) {
-        nextStep();
-        psyData.updateScore(psyData.score + option.value);
-        console.log(option.title, option.value);
-    };
-    const getMainColor = function(prefix) {
-        let colorString = "";
-        if (questionIndex == 0) {
-            colorString = prefix + "-[#90B62A]";
-        } else if (questionIndex == 1) {
-            colorString = prefix + "-[#DD3E3E]";
-        } else {
-            colorString = prefix + "-[#1098EC]";
+        if (questionIndex <= 3) {
+            // Q1 ~ Q4 → 更新 MBTI 維度
+            psyData.updateMBTI(option.value);
+            psyData.updateQuestionState(psyData.questionState + 1);
+            nextStep();
+        } else if (questionIndex === 4) {
+            // Q5 → 記錄趣味題 + 進入結果頁
+            psyData.setExtraChoice(option.value);
+            psyData.updateState(3);
         }
-        return colorString;
     };
-    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Fragment"], {
-        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$component$2f$layout$2f$MobileFrame$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
+    const getColorStyle = ()=>{
+        switch(questionIndex){
+            case 0:
+                return {
+                    bg: '#BEE351',
+                    shadow: '#90B62A'
+                };
+            case 1:
+                return {
+                    bg: '#DD3E3E',
+                    shadow: '#8D4509'
+                };
+            case 2:
+                return {
+                    bg: '#89BCFF',
+                    shadow: '#1098EC'
+                };
+            case 3:
+                return {
+                    bg: '#8B5CF6',
+                    shadow: '#6D28D9'
+                };
+            case 4:
+                return {
+                    bg: '#F59E0B',
+                    shadow: '#D97706'
+                };
+            default:
+                return {
+                    bg: '#CCCCCC',
+                    shadow: '#888888'
+                };
+        }
+    };
+    const { bg, shadow } = getColorStyle();
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$component$2f$layout$2f$MobileFrame$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
+        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+            className: "flex flex-col items-center gap-[26px]",
             children: [
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
-                    className: " absolute top-0 -translate-y-1/2 ",
-                    src: __TURBOPACK__imported__module__$5b$project$5d2f$public$2f$1$2e$question$2f$blur$2d$circle$2d$2$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$public$2f$1$2e$question$2f$blur$2d$circle$2d$2$2e$png__$28$static__in__ecmascript$2922$__$7d$__$5b$app$2d$ssr$5d$__$28$structured__image__object$2c$__ecmascript$29$__["default"],
-                    alt: "circle2Img"
+                    src: __TURBOPACK__imported__module__$5b$project$5d2f$public$2f$1$2e$question$2f$q1$2d$up$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$public$2f$1$2e$question$2f$q1$2d$up$2e$png__$28$static__in__ecmascript$2922$__$7d$__$5b$app$2d$ssr$5d$__$28$structured__image__object$2c$__ecmascript$29$__["default"],
+                    className: "w-[88px]",
+                    alt: "q1Up"
                 }, void 0, false, {
                     fileName: "[project]/src/component/page/QuestionPage.js",
-                    lineNumber: 48,
+                    lineNumber: 70,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                    className: "flex flex-col items-center gap-[26px]",
+                    className: `text-white border-2 rounded-full w-[48px] h-[48px]
+            flex justify-center items-center font-bold text-xl`,
+                    style: {
+                        borderColor: shadow,
+                        backgroundColor: bg
+                    },
                     children: [
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
-                            src: __TURBOPACK__imported__module__$5b$project$5d2f$public$2f$1$2e$question$2f$q1$2d$up$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$public$2f$1$2e$question$2f$q1$2d$up$2e$png__$28$static__in__ecmascript$2922$__$7d$__$5b$app$2d$ssr$5d$__$28$structured__image__object$2c$__ecmascript$29$__["default"],
-                            className: "w-[88px]",
-                            alt: "q1Up"
-                        }, void 0, false, {
-                            fileName: "[project]/src/component/page/QuestionPage.js",
-                            lineNumber: 54,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                            className: "text-[#90B62A] border-2 border-[#90B62A] rounded-full w-[48px] h-[48px] flex justify-center items-center font-bold text-xl ",
-                            children: [
-                                "Q",
-                                questionIndex + 1
-                            ]
-                        }, void 0, true, {
-                            fileName: "[project]/src/component/page/QuestionPage.js",
-                            lineNumber: 56,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                            className: `text-center font-bold text-3xl ${getMainColor('text')} mb-[60px]`,
-                            children: [
-                                " ",
-                                questionData.questions[questionIndex + 1].title,
-                                " "
-                            ]
-                        }, void 0, true, {
-                            fileName: "[project]/src/component/page/QuestionPage.js",
-                            lineNumber: 62,
-                            columnNumber: 11
-                        }, this),
-                        questionData.questions[questionIndex + 1].options.map((option, index)=>{
-                            return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Fragment"], {
-                                children: [
-                                    questionIndex == 0 && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: ` bg-[#BEE351] w-full rounded-full text-white 
-                        py-[16px] text-sm flex justify-center items-center font-medium 
-                        shadow-[0px_4px_0px_1px_#90B62A] cursor-pointer hover:translate-y-0.5 transition`,
-                                        onClick: ()=>clickAnswer(option),
-                                        children: [
-                                            " ",
-                                            option.title,
-                                            " "
-                                        ]
-                                    }, option.title + "green", true, {
-                                        fileName: "[project]/src/component/page/QuestionPage.js",
-                                        lineNumber: 74,
-                                        columnNumber: 21
-                                    }, this),
-                                    questionIndex == 1 && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: ` bg-[#DD3E3E] w-full rounded-full text-white 
-                        py-[16px] text-sm flex justify-center items-center font-medium 
-                        shadow-[0px_4px_0px_1px_#8D4509] cursor-pointer hover:translate-y-0.5 transition`,
-                                        onClick: ()=>clickAnswer(option),
-                                        children: [
-                                            " ",
-                                            option.title,
-                                            " "
-                                        ]
-                                    }, option.title + "red", true, {
-                                        fileName: "[project]/src/component/page/QuestionPage.js",
-                                        lineNumber: 86,
-                                        columnNumber: 21
-                                    }, this),
-                                    questionIndex == 2 && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: ` bg-[#89BCFF] w-full rounded-full text-white 
-                        py-[16px] text-sm flex justify-center items-center font-medium 
-                        shadow-[0px_4px_0px_1px_#1098EC] cursor-pointer hover:translate-y-0.5 transition`,
-                                        onClick: ()=>clickAnswer(option),
-                                        children: [
-                                            " ",
-                                            option.title,
-                                            " "
-                                        ]
-                                    }, option.title + "blue", true, {
-                                        fileName: "[project]/src/component/page/QuestionPage.js",
-                                        lineNumber: 98,
-                                        columnNumber: 21
-                                    }, this)
-                                ]
-                            }, void 0, true);
-                        }),
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
-                            src: __TURBOPACK__imported__module__$5b$project$5d2f$public$2f$1$2e$question$2f$q1$2d$down$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$public$2f$1$2e$question$2f$q1$2d$down$2e$png__$28$static__in__ecmascript$2922$__$7d$__$5b$app$2d$ssr$5d$__$28$structured__image__object$2c$__ecmascript$29$__["default"],
-                            className: "w-[88px]",
-                            alt: "q1Down"
-                        }, void 0, false, {
-                            fileName: "[project]/src/component/page/QuestionPage.js",
-                            lineNumber: 115,
-                            columnNumber: 11
-                        }, this)
+                        "Q",
+                        questionIndex + 1
                     ]
                 }, void 0, true, {
                     fileName: "[project]/src/component/page/QuestionPage.js",
-                    lineNumber: 53,
+                    lineNumber: 72,
                     columnNumber: 9
                 }, this),
-                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
-                    className: " absolute bottom-0 translate-y-1/2 ",
-                    src: __TURBOPACK__imported__module__$5b$project$5d2f$public$2f$1$2e$question$2f$blur$2d$circle$2d$2$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$public$2f$1$2e$question$2f$blur$2d$circle$2d$2$2e$png__$28$static__in__ecmascript$2922$__$7d$__$5b$app$2d$ssr$5d$__$28$structured__image__object$2c$__ecmascript$29$__["default"],
-                    alt: "circle2Img"
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                    className: `text-center font-bold text-3xl mb-[60px]`,
+                    style: {
+                        color: bg
+                    },
+                    children: question.title
                 }, void 0, false, {
                     fileName: "[project]/src/component/page/QuestionPage.js",
-                    lineNumber: 119,
+                    lineNumber: 80,
+                    columnNumber: 9
+                }, this),
+                question.options.map((option, index)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                        className: "w-full rounded-full text-white py-[16px] text-sm  flex justify-center items-center font-medium  cursor-pointer hover:translate-y-0.5 transition",
+                        style: {
+                            backgroundColor: bg,
+                            boxShadow: `0px 4px 0px 1px ${shadow}`
+                        },
+                        onClick: ()=>clickAnswer(option),
+                        children: option.title
+                    }, `q${questionIndex}-opt${index}`, false, {
+                        fileName: "[project]/src/component/page/QuestionPage.js",
+                        lineNumber: 88,
+                        columnNumber: 11
+                    }, this)),
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
+                    src: __TURBOPACK__imported__module__$5b$project$5d2f$public$2f$1$2e$question$2f$q1$2d$down$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$public$2f$1$2e$question$2f$q1$2d$down$2e$png__$28$static__in__ecmascript$2922$__$7d$__$5b$app$2d$ssr$5d$__$28$structured__image__object$2c$__ecmascript$29$__["default"],
+                    className: "w-[88px]",
+                    alt: "q1Down"
+                }, void 0, false, {
+                    fileName: "[project]/src/component/page/QuestionPage.js",
+                    lineNumber: 103,
                     columnNumber: 9
                 }, this)
             ]
         }, void 0, true, {
             fileName: "[project]/src/component/page/QuestionPage.js",
-            lineNumber: 45,
+            lineNumber: 69,
             columnNumber: 7
         }, this)
-    }, void 0, false);
+    }, void 0, false, {
+        fileName: "[project]/src/component/page/QuestionPage.js",
+        lineNumber: 67,
+        columnNumber: 5
+    }, this);
 }
 }}),
 "[project]/src/component/page/DisplayResultPage.js [app-ssr] (ecmascript)": ((__turbopack_context__) => {
@@ -892,7 +842,6 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$component$2f$page$2f$
 var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$component$2f$page$2f$QuestionPage$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/src/component/page/QuestionPage.js [app-ssr] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$component$2f$page$2f$DisplayResultPage$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/src/component/page/DisplayResultPage.js [app-ssr] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$component$2f$page$2f$ResultPage$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/src/component/page/ResultPage.js [app-ssr] (ecmascript)");
-var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/server/route-modules/app-page/vendored/ssr/react.js [app-ssr] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$store$2f$store$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/src/app/store/store.js [app-ssr] (ecmascript)");
 'use client';
 ;
@@ -901,70 +850,65 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$store$2f$store
 ;
 ;
 ;
-;
 function Croissant() {
     const psyState = (0, __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$store$2f$store$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["usePsyStore"])((state)=>state);
-    const nextStep = function() {
+    const nextStep = ()=>{
         if (psyState.state >= 3) return;
-        if (psyState.state == 1) {
-            //答題階段
-            //要超過總題數才能結束答題階段
+        if (psyState.state === 1) {
+            // 答題階段
             if (psyState.questionState < psyState.totalQuestions - 1) {
                 psyState.updateQuestionState(psyState.questionState + 1);
             } else {
-                psyState.updateState(psyState.state + 1);
+                psyState.updateState(2) // 跳到 DisplayResultPage
+                ;
             }
         } else {
-            console.log("next");
             psyState.updateState(psyState.state + 1);
         }
     };
-    const prevStep = function() {
+    const prevStep = ()=>{
         if (psyState.state <= 0) return;
-        console.log("prev");
         psyState.updateState(psyState.state - 1);
     };
-    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Fragment"], {
-        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-            className: "w-screen h-screen bg-transparent flex justify-center items-center",
-            children: [
-                psyState.state == 0 && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$component$2f$page$2f$StartPage$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
-                    nextStep: nextStep
-                }, void 0, false, {
-                    fileName: "[project]/src/app/croissant/page.js",
-                    lineNumber: 45,
-                    columnNumber: 34
-                }, this),
-                psyState.state == 1 && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$component$2f$page$2f$QuestionPage$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
-                    nextStep: nextStep,
-                    questionIndex: psyState.questionState
-                }, void 0, false, {
-                    fileName: "[project]/src/app/croissant/page.js",
-                    lineNumber: 46,
-                    columnNumber: 34
-                }, this),
-                psyState.state == 2 && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$component$2f$page$2f$DisplayResultPage$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
-                    nextStep: nextStep
-                }, void 0, false, {
-                    fileName: "[project]/src/app/croissant/page.js",
-                    lineNumber: 47,
-                    columnNumber: 34
-                }, this),
-                psyState.state == 3 && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$component$2f$page$2f$ResultPage$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
-                    fileName: "[project]/src/app/croissant/page.js",
-                    lineNumber: 48,
-                    columnNumber: 34
-                }, this)
-            ]
-        }, void 0, true, {
-            fileName: "[project]/src/app/croissant/page.js",
-            lineNumber: 44,
-            columnNumber: 7
-        }, this)
-    }, void 0, false);
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+        className: "w-screen h-screen bg-transparent flex justify-center items-center",
+        children: [
+            psyState.state === 0 && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$component$2f$page$2f$StartPage$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
+                nextStep: nextStep
+            }, void 0, false, {
+                fileName: "[project]/src/app/croissant/page.js",
+                lineNumber: 34,
+                columnNumber: 32
+            }, this),
+            psyState.state === 1 && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$component$2f$page$2f$QuestionPage$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
+                questionIndex: psyState.questionState,
+                nextStep: nextStep
+            }, void 0, false, {
+                fileName: "[project]/src/app/croissant/page.js",
+                lineNumber: 36,
+                columnNumber: 9
+            }, this),
+            psyState.state === 2 && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$component$2f$page$2f$DisplayResultPage$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
+                nextStep: nextStep
+            }, void 0, false, {
+                fileName: "[project]/src/app/croissant/page.js",
+                lineNumber: 41,
+                columnNumber: 32
+            }, this),
+            psyState.state === 3 && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$component$2f$page$2f$ResultPage$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
+                fileName: "[project]/src/app/croissant/page.js",
+                lineNumber: 42,
+                columnNumber: 32
+            }, this)
+        ]
+    }, void 0, true, {
+        fileName: "[project]/src/app/croissant/page.js",
+        lineNumber: 33,
+        columnNumber: 5
+    }, this);
 }
 }}),
 
 };
 
-//# sourceMappingURL=%5Broot-of-the-server%5D__e62bb3fd._.js.map
+//# sourceMappingURL=%5Broot-of-the-server%5D__d036e62e._.js.map
