@@ -30,33 +30,28 @@ export default function QuestionPage({ questionIndex, nextStep }) {
     switch (questionIndex) {
       case 0:
         return {
-          bg: '#BEE351',
-          shadow: '#90B62A',
+          bg: '#004AAD',
         }
       case 1:
         return {
-          bg: '#DD3E3E',
-          shadow: '#8D4509',
+          bg: '#004AAD',
         }
       case 2:
         return {
-          bg: '#89BCFF',
-          shadow: '#1098EC',
+          bg: '#004AAD',
         }
       case 3:
         return {
-          bg: '#8B5CF6',
-          shadow: '#6D28D9',
+          bg: '#004AAD',
+
         }
       case 4:
           return {
-            bg: '#8B5CF6',
-            shadow: '#6D28D9',
+            bg: '#004AAD',
           }
       default:
         return {
           bg: '#CCCCCC',
-          shadow: '#888888',
         }
     }
   }
@@ -87,12 +82,12 @@ export default function QuestionPage({ questionIndex, nextStep }) {
         {question.options.map((option, index) => (
           <div
             key={`q${questionIndex}-opt${index}`}
-            className="w-full rounded-full text-white py-[16px] text-sm 
+            className="w-full text-white py-[16px] text-sm 
               flex justify-center items-center font-medium 
               cursor-pointer hover:translate-y-0.5 transition"
             style={{
               backgroundColor: bg,
-              boxShadow: `0px 4px 0px 1px ${shadow}`,
+              boxShadow: `0px 4px 0px 0px ${shadow}`,
             }}
             onClick={() => clickAnswer(option)}
           >

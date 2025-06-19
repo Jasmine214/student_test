@@ -42,12 +42,12 @@ if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelper
     __turbopack_context__.k.registerExports(module, globalThis.$RefreshHelpers$);
 }
 }}),
-"[project]/public/0.start/title.svg (static in ecmascript)": ((__turbopack_context__) => {
+"[project]/public/0.start/title.png (static in ecmascript)": ((__turbopack_context__) => {
 
 var { g: global, __dirname } = __turbopack_context__;
 {
-__turbopack_context__.v("/_next/static/media/title.657e4ba4.svg");}}),
-"[project]/public/0.start/title.svg.mjs { IMAGE => \"[project]/public/0.start/title.svg (static in ecmascript)\" } [app-client] (structured image object, ecmascript)": ((__turbopack_context__) => {
+__turbopack_context__.v("/_next/static/media/title.0ed7d24b.png");}}),
+"[project]/public/0.start/title.png.mjs { IMAGE => \"[project]/public/0.start/title.png (static in ecmascript)\" } [app-client] (structured image object, ecmascript)": ((__turbopack_context__) => {
 "use strict";
 
 var { g: global, __dirname, k: __turbopack_refresh__, m: module } = __turbopack_context__;
@@ -55,15 +55,15 @@ var { g: global, __dirname, k: __turbopack_refresh__, m: module } = __turbopack_
 __turbopack_context__.s({
     "default": (()=>__TURBOPACK__default__export__)
 });
-var __TURBOPACK__imported__module__$5b$project$5d2f$public$2f$0$2e$start$2f$title$2e$svg__$28$static__in__ecmascript$29$__ = __turbopack_context__.i("[project]/public/0.start/title.svg (static in ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$public$2f$0$2e$start$2f$title$2e$png__$28$static__in__ecmascript$29$__ = __turbopack_context__.i("[project]/public/0.start/title.png (static in ecmascript)");
 ;
 const __TURBOPACK__default__export__ = {
-    src: __TURBOPACK__imported__module__$5b$project$5d2f$public$2f$0$2e$start$2f$title$2e$svg__$28$static__in__ecmascript$29$__["default"],
-    width: 242,
-    height: 79,
-    blurDataURL: null,
-    blurWidth: 0,
-    blurHeight: 0
+    src: __TURBOPACK__imported__module__$5b$project$5d2f$public$2f$0$2e$start$2f$title$2e$png__$28$static__in__ecmascript$29$__["default"],
+    width: 1920,
+    height: 1080,
+    blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAFCAYAAAB4ka1VAAAAVklEQVR42o2NsQqAIAAFH1Jhc9AQUeBgEJRLBlG0NAR+QA0uuoir/7/4AS7eegcHZEOKCrTpULcDSEkT37NZyOd3hzJh5GJPAjat2/l+9lba80Ve2ecIOK0ISymlvhAAAAAASUVORK5CYII=",
+    blurWidth: 8,
+    blurHeight: 5
 };
 if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelpers !== null) {
     __turbopack_context__.k.registerExports(module, globalThis.$RefreshHelpers$);
@@ -73,7 +73,7 @@ if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelper
 
 var { g: global, __dirname } = __turbopack_context__;
 {
-__turbopack_context__.v("/_next/static/media/startBtn.90b886e2.png");}}),
+__turbopack_context__.v("/_next/static/media/startBtn.63164ea8.png");}}),
 "[project]/public/0.start/startBtn.png.mjs { IMAGE => \"[project]/public/0.start/startBtn.png (static in ecmascript)\" } [app-client] (structured image object, ecmascript)": ((__turbopack_context__) => {
 "use strict";
 
@@ -86,38 +86,11 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$public$2f$0$2e$start$2f$star
 ;
 const __TURBOPACK__default__export__ = {
     src: __TURBOPACK__imported__module__$5b$project$5d2f$public$2f$0$2e$start$2f$startBtn$2e$png__$28$static__in__ecmascript$29$__["default"],
-    width: 344,
-    height: 132,
-    blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAADCAYAAACuyE5IAAAAbklEQVR42gFjAJz/ABMKAhp1Ogqik0sQzJVPFsyVTxbMk0sRzHU6CqITCgIaADEYBEWrVQ7xvGgj/8N4Ov/Fez//u2Qe/6tVDvExGARFABEIARlmMgiZgUALwoFADMKBQAzCgUAKwmYyCJkRCAEZqiwh0c6V8kMAAAAASUVORK5CYII=",
+    width: 1920,
+    height: 1080,
+    blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAFCAYAAAB4ka1VAAAAYElEQVR42o2NoQqAMBiE569idLAyx5rJYFcGBp9ADH9Ysvhs2sXnWl3c/rTFHRwcH8cdY0XquKyUwVpvlgwxE0sFMe/ifN14fX66f8+PxxHLFnoJasVGG9tGw7AgsaL3AP8/D6Ae61f2AAAAAElFTkSuQmCC",
     blurWidth: 8,
-    blurHeight: 3
-};
-if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelpers !== null) {
-    __turbopack_context__.k.registerExports(module, globalThis.$RefreshHelpers$);
-}
-}}),
-"[project]/public/0.start/blur-circle-1.png (static in ecmascript)": ((__turbopack_context__) => {
-
-var { g: global, __dirname } = __turbopack_context__;
-{
-__turbopack_context__.v("/_next/static/media/blur-circle-1.a3aa990c.png");}}),
-"[project]/public/0.start/blur-circle-1.png.mjs { IMAGE => \"[project]/public/0.start/blur-circle-1.png (static in ecmascript)\" } [app-client] (structured image object, ecmascript)": ((__turbopack_context__) => {
-"use strict";
-
-var { g: global, __dirname, k: __turbopack_refresh__, m: module } = __turbopack_context__;
-{
-__turbopack_context__.s({
-    "default": (()=>__TURBOPACK__default__export__)
-});
-var __TURBOPACK__imported__module__$5b$project$5d2f$public$2f$0$2e$start$2f$blur$2d$circle$2d$1$2e$png__$28$static__in__ecmascript$29$__ = __turbopack_context__.i("[project]/public/0.start/blur-circle-1.png (static in ecmascript)");
-;
-const __TURBOPACK__default__export__ = {
-    src: __TURBOPACK__imported__module__$5b$project$5d2f$public$2f$0$2e$start$2f$blur$2d$circle$2d$1$2e$png__$28$static__in__ecmascript$29$__["default"],
-    width: 632,
-    height: 632,
-    blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAAAs0lEQVR42nVOOw6CQBR8m81yAKHSilvYudpKxNIjaIiHQCIewfhr/IQDGDFgAncQYwt21nsC3+52KsUkk5l5bwZ6XQ7RbkGeyZS+bkMDwSSPtiHhvANw2szJO+8bIm+ZIrNsBeRSO64DAkU8oSJvomm2RdYYaSBH7X4eU6jSAdOXypwhfM0tu0xc9h3wfwKPq1dfccEKNTJz/ox09EjOORxWISnwU4l1VeqyIvbofhkQ6X0AW7V4GwxXrwgAAAAASUVORK5CYII=",
-    blurWidth: 8,
-    blurHeight: 8
+    blurHeight: 5
 };
 if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelpers !== null) {
     __turbopack_context__.k.registerExports(module, globalThis.$RefreshHelpers$);
@@ -134,11 +107,9 @@ __turbopack_context__.s({
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/compiled/react/jsx-dev-runtime.js [app-client] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$component$2f$layout$2f$MobileFrame$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/src/component/layout/MobileFrame.js [app-client] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/image.js [app-client] (ecmascript)");
-var __TURBOPACK__imported__module__$5b$project$5d2f$public$2f$0$2e$start$2f$title$2e$svg$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$public$2f$0$2e$start$2f$title$2e$svg__$28$static__in__ecmascript$2922$__$7d$__$5b$app$2d$client$5d$__$28$structured__image__object$2c$__ecmascript$29$__ = __turbopack_context__.i('[project]/public/0.start/title.svg.mjs { IMAGE => "[project]/public/0.start/title.svg (static in ecmascript)" } [app-client] (structured image object, ecmascript)');
+var __TURBOPACK__imported__module__$5b$project$5d2f$public$2f$0$2e$start$2f$title$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$public$2f$0$2e$start$2f$title$2e$png__$28$static__in__ecmascript$2922$__$7d$__$5b$app$2d$client$5d$__$28$structured__image__object$2c$__ecmascript$29$__ = __turbopack_context__.i('[project]/public/0.start/title.png.mjs { IMAGE => "[project]/public/0.start/title.png (static in ecmascript)" } [app-client] (structured image object, ecmascript)');
 var __TURBOPACK__imported__module__$5b$project$5d2f$public$2f$0$2e$start$2f$startBtn$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$public$2f$0$2e$start$2f$startBtn$2e$png__$28$static__in__ecmascript$2922$__$7d$__$5b$app$2d$client$5d$__$28$structured__image__object$2c$__ecmascript$29$__ = __turbopack_context__.i('[project]/public/0.start/startBtn.png.mjs { IMAGE => "[project]/public/0.start/startBtn.png (static in ecmascript)" } [app-client] (structured image object, ecmascript)');
-var __TURBOPACK__imported__module__$5b$project$5d2f$public$2f$0$2e$start$2f$blur$2d$circle$2d$1$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$public$2f$0$2e$start$2f$blur$2d$circle$2d$1$2e$png__$28$static__in__ecmascript$2922$__$7d$__$5b$app$2d$client$5d$__$28$structured__image__object$2c$__ecmascript$29$__ = __turbopack_context__.i('[project]/public/0.start/blur-circle-1.png.mjs { IMAGE => "[project]/public/0.start/blur-circle-1.png (static in ecmascript)" } [app-client] (structured image object, ecmascript)');
 'use client';
-;
 ;
 ;
 ;
@@ -148,48 +119,57 @@ function StartPage({ nextStep }) {
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], {
         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$component$2f$layout$2f$MobileFrame$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "flex flex-col justify-between h-full overflow-y-auto py-6",
+                className: "flex flex-col justify-center items-center h-full overflow-y-auto py-6",
                 children: [
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
+                        className: "w-[600px]",
+                        src: __TURBOPACK__imported__module__$5b$project$5d2f$public$2f$0$2e$start$2f$title$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$public$2f$0$2e$start$2f$title$2e$png__$28$static__in__ecmascript$2922$__$7d$__$5b$app$2d$client$5d$__$28$structured__image__object$2c$__ecmascript$29$__["default"],
+                        alt: "title"
+                    }, void 0, false, {
+                        fileName: "[project]/src/component/page/StartPage.js",
+                        lineNumber: 15,
+                        columnNumber: 11
+                    }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         className: "text-[#004aad] font-[500] text-center text-[14px] leading-loose tracking-wide ",
                         children: [
                             "大學生測驗介紹",
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                 fileName: "[project]/src/component/page/StartPage.js",
-                                lineNumber: 19,
+                                lineNumber: 18,
                                 columnNumber: 20
                             }, this),
                             "大學生測驗介紹",
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                 fileName: "[project]/src/component/page/StartPage.js",
-                                lineNumber: 20,
+                                lineNumber: 19,
                                 columnNumber: 20
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/component/page/StartPage.js",
-                        lineNumber: 17,
+                        lineNumber: 16,
                         columnNumber: 11
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
                         onClick: nextStep,
-                        className: "w-[160px]",
+                        className: "w-[260px]",
                         src: __TURBOPACK__imported__module__$5b$project$5d2f$public$2f$0$2e$start$2f$startBtn$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$public$2f$0$2e$start$2f$startBtn$2e$png__$28$static__in__ecmascript$2922$__$7d$__$5b$app$2d$client$5d$__$28$structured__image__object$2c$__ecmascript$29$__["default"],
                         alt: "startBtn"
                     }, void 0, false, {
                         fileName: "[project]/src/component/page/StartPage.js",
-                        lineNumber: 22,
+                        lineNumber: 21,
                         columnNumber: 11
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/component/page/StartPage.js",
-                lineNumber: 14,
+                lineNumber: 13,
                 columnNumber: 9
             }, this)
         }, void 0, false, {
             fileName: "[project]/src/component/page/StartPage.js",
-            lineNumber: 13,
+            lineNumber: 12,
             columnNumber: 7
         }, this)
     }, void 0, false);
@@ -514,33 +494,27 @@ function QuestionPage({ questionIndex, nextStep }) {
         switch(questionIndex){
             case 0:
                 return {
-                    bg: '#BEE351',
-                    shadow: '#90B62A'
+                    bg: '#004AAD'
                 };
             case 1:
                 return {
-                    bg: '#DD3E3E',
-                    shadow: '#8D4509'
+                    bg: '#004AAD'
                 };
             case 2:
                 return {
-                    bg: '#89BCFF',
-                    shadow: '#1098EC'
+                    bg: '#004AAD'
                 };
             case 3:
                 return {
-                    bg: '#8B5CF6',
-                    shadow: '#6D28D9'
+                    bg: '#004AAD'
                 };
             case 4:
                 return {
-                    bg: '#8B5CF6',
-                    shadow: '#6D28D9'
+                    bg: '#004AAD'
                 };
             default:
                 return {
-                    bg: '#CCCCCC',
-                    shadow: '#888888'
+                    bg: '#CCCCCC'
                 };
         }
     };
@@ -555,7 +529,7 @@ function QuestionPage({ questionIndex, nextStep }) {
                     alt: "q1Up"
                 }, void 0, false, {
                     fileName: "[project]/src/component/page/QuestionPage.js",
-                    lineNumber: 70,
+                    lineNumber: 65,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -571,7 +545,7 @@ function QuestionPage({ questionIndex, nextStep }) {
                     ]
                 }, void 0, true, {
                     fileName: "[project]/src/component/page/QuestionPage.js",
-                    lineNumber: 72,
+                    lineNumber: 67,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -582,7 +556,7 @@ function QuestionPage({ questionIndex, nextStep }) {
                     children: question.title
                 }, void 0, false, {
                     fileName: "[project]/src/component/page/QuestionPage.js",
-                    lineNumber: 80,
+                    lineNumber: 75,
                     columnNumber: 9
                 }, this),
                 question.options.map((option, index)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -595,7 +569,7 @@ function QuestionPage({ questionIndex, nextStep }) {
                         children: option.title
                     }, `q${questionIndex}-opt${index}`, false, {
                         fileName: "[project]/src/component/page/QuestionPage.js",
-                        lineNumber: 88,
+                        lineNumber: 83,
                         columnNumber: 11
                     }, this)),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
@@ -604,18 +578,18 @@ function QuestionPage({ questionIndex, nextStep }) {
                     alt: "q1Down"
                 }, void 0, false, {
                     fileName: "[project]/src/component/page/QuestionPage.js",
-                    lineNumber: 103,
+                    lineNumber: 98,
                     columnNumber: 9
                 }, this)
             ]
         }, void 0, true, {
             fileName: "[project]/src/component/page/QuestionPage.js",
-            lineNumber: 69,
+            lineNumber: 64,
             columnNumber: 7
         }, this)
     }, void 0, false, {
         fileName: "[project]/src/component/page/QuestionPage.js",
-        lineNumber: 67,
+        lineNumber: 62,
         columnNumber: 5
     }, this);
 }
@@ -1366,4 +1340,4 @@ if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelper
 }}),
 }]);
 
-//# sourceMappingURL=_a43fe63b._.js.map
+//# sourceMappingURL=_83fde552._.js.map
