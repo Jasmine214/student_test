@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file:///Users/jasmine/Downloads/student-test/src/component/layout/MobileFrame.js"],"sourcesContent":["'use client';\n\nexport default function MobileFrame({ children }) {\n  return (\n    <div className=\"flex justify-center items-center px-4 py-8\">\n      <div\n        className=\"w-full sm:w-[420px] max-w-[90%] h-full sm:h-[90vh] \n        bg-white rounded-2xl p-6 shadow-lg overflow-hidden flex flex-col\"\n        style={{\n          backgroundImage: `\n            linear-gradient(to right, rgba(0, 74, 173, 0.06) 1px, transparent 1px),\n            linear-gradient(to bottom, rgba(0, 74, 173, 0.06) 1px, transparent 1px)\n          `,\n          backgroundSize: '20px 20px',\n        }}\n      >\n\n        {children}\n      </div>\n    </div>\n  );\n}\n"],"names":[],"mappings":";;;;AAAA;;AAEe,SAAS,YAAY,EAAE,QAAQ,EAAE;IAC9C,qBACE,6LAAC;QAAI,WAAU;kBACb,cAAA,6LAAC;YACC,WAAU;YAEV,OAAO;gBACL,iBAAiB,CAAC;;;UAGlB,CAAC;gBACD,gBAAgB;YAClB;sBAGC;;;;;;;;;;;AAIT;KAnBwB","debugId":null}}]
+}

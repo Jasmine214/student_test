@@ -46,7 +46,7 @@ if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelper
 
 var { g: global, __dirname } = __turbopack_context__;
 {
-__turbopack_context__.v("/_next/static/media/title.0ed7d24b.png");}}),
+__turbopack_context__.v("/_next/static/media/title.743dd149.png");}}),
 "[project]/public/0.start/title.png.mjs { IMAGE => \"[project]/public/0.start/title.png (static in ecmascript)\" } [app-client] (structured image object, ecmascript)": ((__turbopack_context__) => {
 "use strict";
 
@@ -61,7 +61,7 @@ const __TURBOPACK__default__export__ = {
     src: __TURBOPACK__imported__module__$5b$project$5d2f$public$2f$0$2e$start$2f$title$2e$png__$28$static__in__ecmascript$29$__["default"],
     width: 1920,
     height: 1080,
-    blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAFCAYAAAB4ka1VAAAAVklEQVR42o2NsQqAIAAFH1Jhc9AQUeBgEJRLBlG0NAR+QA0uuoir/7/4AS7eegcHZEOKCrTpULcDSEkT37NZyOd3hzJh5GJPAjat2/l+9lba80Ve2ecIOK0ISymlvhAAAAAASUVORK5CYII=",
+    blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAFCAYAAAB4ka1VAAAAsElEQVR42gGlAFr/AAAAAAAJCgsMKDA5QCYsMzkgJSwxIys1PQcHCAkAAAAAAAAAAAAbHiIlX36mx2mCpL5ogJ+3V3eixRgcISQAAAAAAAMDAwMiKTI5Q05cZ0RPXmlCS1dgPEZTXiEmLjQBAQEBAAoLDA1LaI+vYHugvlV4p81nf6C5W2+JnUxlhqEHCAgIAAICAgIgJSwxJCkwNSkxO0QlKjE2JCkvMyEmLTMDAwMEP9Qk31ufVigAAAAASUVORK5CYII=",
     blurWidth: 8,
     blurHeight: 5
 };
@@ -131,19 +131,13 @@ function StartPage({ nextStep }) {
                         columnNumber: 11
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                        className: "text-[#004aad] font-[500] text-center text-[14px] leading-loose tracking-wide ",
+                        className: "text-[#004aad] font-[500] text-center text-medium leading-loose tracking-wide ",
                         children: [
-                            "大學生測驗介紹",
+                            "這是一款簡單的心理測驗，透過簡單的校園生活問題分析你的性格，對應到不同的文具，總共有十六種文具等你解鎖，還可以跟朋友一起玩，看看你們是不是對方的靈魂伴侶：D ",
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                 fileName: "[project]/src/component/page/StartPage.js",
                                 lineNumber: 18,
-                                columnNumber: 20
-                            }, this),
-                            "大學生測驗介紹",
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
-                                fileName: "[project]/src/component/page/StartPage.js",
-                                lineNumber: 19,
-                                columnNumber: 20
+                                columnNumber: 99
                             }, this)
                         ]
                     }, void 0, true, {
@@ -158,7 +152,7 @@ function StartPage({ nextStep }) {
                         alt: "startBtn"
                     }, void 0, false, {
                         fileName: "[project]/src/component/page/StartPage.js",
-                        lineNumber: 21,
+                        lineNumber: 20,
                         columnNumber: 11
                     }, this)
                 ]
