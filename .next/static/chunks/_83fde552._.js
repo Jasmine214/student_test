@@ -609,7 +609,7 @@ function DisplayResultPage({ nextStep }) {
                     className: "flex flex-col justify-center items-center h-full overflow-y-auto py-6",
                     children: [
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                            className: "text-bold text-[#004AAD] my-[30px]",
+                            className: "text-xl font-semibold text-[#004AAD] my-[30px]",
                             children: " 你的屬性已經被看穿⋯⋯ 接招吧！ "
                         }, void 0, false, {
                             fileName: "[project]/src/component/page/DisplayResultPage.js",
@@ -656,7 +656,7 @@ if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelper
 
 var { g: global, __dirname } = __turbopack_context__;
 {
-__turbopack_context__.v("/_next/static/media/infp.4b419114.png");}}),
+__turbopack_context__.v("/_next/static/media/infp.cdd14ba7.png");}}),
 "[project]/src/assets/4.result/infp.png.mjs { IMAGE => \"[project]/src/assets/4.result/infp.png (static in ecmascript)\" } [app-client] (structured image object, ecmascript)": ((__turbopack_context__) => {
 "use strict";
 
@@ -671,7 +671,7 @@ const __TURBOPACK__default__export__ = {
     src: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$4$2e$result$2f$infp$2e$png__$28$static__in__ecmascript$29$__["default"],
     width: 1080,
     height: 1920,
-    blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAICAYAAAAx8TU7AAAAKUlEQVR42r3OoQ0AAAgDwe6/EEswBjsQgii+QVecefWILCrMNpUvfksHrCWXafgwGeEAAAAASUVORK5CYII=",
+    blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAICAYAAAAx8TU7AAAAkklEQVR42g3LwQqCMACA4b3/qwR1DapTeQhSEAuy1HTN6ebUrJRuf96+yydUUVBqR3DJ0TJneHgIV5VEYUAQ+PSN5esUYnA1ob9nu16wOaYsdjHiad6kqkfXluWhYOVJxF0NHM6GKGvJ9Itx+s39M9EOI6e4IZlHN1tIbZCVRWqLcR21beeeXEmzG02V0xmFVRl/GzOQwoBFfgcAAAAASUVORK5CYII=",
     blurWidth: 5,
     blurHeight: 8
 };
@@ -683,7 +683,7 @@ if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelper
 
 var { g: global, __dirname } = __turbopack_context__;
 {
-__turbopack_context__.v("/_next/static/media/infj.4b419114.png");}}),
+__turbopack_context__.v("/_next/static/media/infj.d50567cd.png");}}),
 "[project]/src/assets/4.result/infj.png.mjs { IMAGE => \"[project]/src/assets/4.result/infj.png (static in ecmascript)\" } [app-client] (structured image object, ecmascript)": ((__turbopack_context__) => {
 "use strict";
 
@@ -698,7 +698,7 @@ const __TURBOPACK__default__export__ = {
     src: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$4$2e$result$2f$infj$2e$png__$28$static__in__ecmascript$29$__["default"],
     width: 1080,
     height: 1920,
-    blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAICAYAAAAx8TU7AAAAKUlEQVR42r3OoQ0AAAgDwe6/EEswBjsQgii+QVecefWILCrMNpUvfksHrCWXafgwGeEAAAAASUVORK5CYII=",
+    blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAICAYAAAAx8TU7AAAAlElEQVR42hXIOQ6CQABA0bn/JayNkhgrExMbo40FhRFkCczCsDggi0vsvlq+JwqlMNbhXyRJktFnB0RbWbQpmC3XKKV5uAIxtjVxGrHYeMy3PstdjDDNRGzu6Nrh7SWro0Fc9cApcpyzjqwceL4/iH6Y6McXoexQVc/fQsucpiyx1uJqi1XpL9OArjbYPGC8SZwJ+QLXiZAmgGPVhQAAAABJRU5ErkJggg==",
     blurWidth: 5,
     blurHeight: 8
 };
@@ -710,7 +710,7 @@ if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelper
 
 var { g: global, __dirname } = __turbopack_context__;
 {
-__turbopack_context__.v("/_next/static/media/isfp.4b419114.png");}}),
+__turbopack_context__.v("/_next/static/media/isfp.d1b2c37c.png");}}),
 "[project]/src/assets/4.result/isfp.png.mjs { IMAGE => \"[project]/src/assets/4.result/isfp.png (static in ecmascript)\" } [app-client] (structured image object, ecmascript)": ((__turbopack_context__) => {
 "use strict";
 
@@ -725,7 +725,7 @@ const __TURBOPACK__default__export__ = {
     src: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$4$2e$result$2f$isfp$2e$png__$28$static__in__ecmascript$29$__["default"],
     width: 1080,
     height: 1920,
-    blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAICAYAAAAx8TU7AAAAKUlEQVR42r3OoQ0AAAgDwe6/EEswBjsQgii+QVecefWILCrMNpUvfksHrCWXafgwGeEAAAAASUVORK5CYII=",
+    blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAICAYAAAAx8TU7AAAAmElEQVR42g3NSw7BQACA4bm5GziBE0iwsxESERGxIPFoEMbUaDudvt+7Xxff+hNaKfTPcnYkWaDI5RYR+T8yozjMh9xOe6pII/IooPR3rKcDRuMV4+UdocOCh3KJ4pDJ5sNs6yLeXsH1k3KRCdLLqNsOUTctVdPhqISvycnLpo9iS9xz3ScmtBgbI9LgidUOx8MCoyXB98Uf7EaQWewP1EkAAAAASUVORK5CYII=",
     blurWidth: 5,
     blurHeight: 8
 };
@@ -737,7 +737,7 @@ if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelper
 
 var { g: global, __dirname } = __turbopack_context__;
 {
-__turbopack_context__.v("/_next/static/media/isfj.4b419114.png");}}),
+__turbopack_context__.v("/_next/static/media/isfj.b47d0e68.png");}}),
 "[project]/src/assets/4.result/isfj.png.mjs { IMAGE => \"[project]/src/assets/4.result/isfj.png (static in ecmascript)\" } [app-client] (structured image object, ecmascript)": ((__turbopack_context__) => {
 "use strict";
 
@@ -752,7 +752,7 @@ const __TURBOPACK__default__export__ = {
     src: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$4$2e$result$2f$isfj$2e$png__$28$static__in__ecmascript$29$__["default"],
     width: 1080,
     height: 1920,
-    blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAICAYAAAAx8TU7AAAAKUlEQVR42r3OoQ0AAAgDwe6/EEswBjsQgii+QVecefWILCrMNpUvfksHrCWXafgwGeEAAAAASUVORK5CYII=",
+    blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAICAYAAAAx8TU7AAAAkUlEQVR42g2Juw6CMAAA+/9fYhwc3Uwc1GhcHEwEeaVAK4VCCwF0OztccrkTtZQo3RElJaMJFGeE/SjyNOF+u9ApyWxrxGgb+laTJ082+yvbQ4yozESmHN47tseU3alEZHrikfZheJLKsaw/xLJ+mYO85MA7ROsXRN+3WKuRyqAbQ2sHRFdHOFPQ6JK6iGmqnD+VYpH6F0OD6wAAAABJRU5ErkJggg==",
     blurWidth: 5,
     blurHeight: 8
 };
@@ -764,7 +764,7 @@ if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelper
 
 var { g: global, __dirname } = __turbopack_context__;
 {
-__turbopack_context__.v("/_next/static/media/enfp.4b419114.png");}}),
+__turbopack_context__.v("/_next/static/media/enfp.11f207d2.png");}}),
 "[project]/src/assets/4.result/enfp.png.mjs { IMAGE => \"[project]/src/assets/4.result/enfp.png (static in ecmascript)\" } [app-client] (structured image object, ecmascript)": ((__turbopack_context__) => {
 "use strict";
 
@@ -779,7 +779,7 @@ const __TURBOPACK__default__export__ = {
     src: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$4$2e$result$2f$enfp$2e$png__$28$static__in__ecmascript$29$__["default"],
     width: 1080,
     height: 1920,
-    blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAICAYAAAAx8TU7AAAAKUlEQVR42r3OoQ0AAAgDwe6/EEswBjsQgii+QVecefWILCrMNpUvfksHrCWXafgwGeEAAAAASUVORK5CYII=",
+    blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAICAYAAAAx8TU7AAAAlUlEQVR42g3OvQ6CMAAA4b5/fAd3Ex3dHPxL1EEHE5WAhCKUUkqhKOh2sl1u+kQmJUpZrg9JGMY08R5hixyrA5JgSpZceFcZwltNrU44OWG53jBbBYhX2RFlDt955tuExS5FRLnnHFpu0hGrln74Ifrhy2eM+zhT7Wm7AaG0oaoblM6pjMIYjUjjB0YluFFQPo8U4YE/WBSRTkn8JfkAAAAASUVORK5CYII=",
     blurWidth: 5,
     blurHeight: 8
 };
@@ -791,7 +791,7 @@ if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelper
 
 var { g: global, __dirname } = __turbopack_context__;
 {
-__turbopack_context__.v("/_next/static/media/enfj.4b419114.png");}}),
+__turbopack_context__.v("/_next/static/media/enfj.c6219be9.png");}}),
 "[project]/src/assets/4.result/enfj.png.mjs { IMAGE => \"[project]/src/assets/4.result/enfj.png (static in ecmascript)\" } [app-client] (structured image object, ecmascript)": ((__turbopack_context__) => {
 "use strict";
 
@@ -806,7 +806,7 @@ const __TURBOPACK__default__export__ = {
     src: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$4$2e$result$2f$enfj$2e$png__$28$static__in__ecmascript$29$__["default"],
     width: 1080,
     height: 1920,
-    blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAICAYAAAAx8TU7AAAAKUlEQVR42r3OoQ0AAAgDwe6/EEswBjsQgii+QVecefWILCrMNpUvfksHrCWXafgwGeEAAAAASUVORK5CYII=",
+    blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAICAYAAAAx8TU7AAAAkUlEQVR42g3LywqCQABA0fn/XwlqHwQtkloEQSClmToyOs7Dd1q7m7uzOUJJiSodtzAljhO6NEB4XdJ7TRZuUfmTySnE4Gvy6IJKjuzPLzaHCKHsSCQdwzSzPUl2QYFI9cg18tzfDWnVMy8/xLx8+ax4yJbCDOtYELX1GNdQ1RW+7bC+Q7RGYcuc3iY4XWBUxh970pIYvqUskAAAAABJRU5ErkJggg==",
     blurWidth: 5,
     blurHeight: 8
 };
@@ -818,7 +818,7 @@ if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelper
 
 var { g: global, __dirname } = __turbopack_context__;
 {
-__turbopack_context__.v("/_next/static/media/esfp.4b419114.png");}}),
+__turbopack_context__.v("/_next/static/media/esfp.5463e9f0.png");}}),
 "[project]/src/assets/4.result/esfp.png.mjs { IMAGE => \"[project]/src/assets/4.result/esfp.png (static in ecmascript)\" } [app-client] (structured image object, ecmascript)": ((__turbopack_context__) => {
 "use strict";
 
@@ -833,7 +833,7 @@ const __TURBOPACK__default__export__ = {
     src: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$4$2e$result$2f$esfp$2e$png__$28$static__in__ecmascript$29$__["default"],
     width: 1080,
     height: 1920,
-    blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAICAYAAAAx8TU7AAAAKUlEQVR42r3OoQ0AAAgDwe6/EEswBjsQgii+QVecefWILCrMNpUvfksHrCWXafgwGeEAAAAASUVORK5CYII=",
+    blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAICAYAAAAx8TU7AAAAkklEQVR42g3Nuw6CMABA0f7/t5jo4qqLkhgTlUGIIJZiKQoFLPJwuzKc+QitFLmxSKnpqwwn9whb5NhCYeSZ1tzorUY4+6IpYmrjs956LDYRQpcdsW5xXcdyl7LynojEdHjXksvd8jAfhvGHGMaJfpgIVUP2drjviKhKjZIRQZRQN3NqFaLRF9LwQHDczqE/O/EHzeqRsXf9aBsAAAAASUVORK5CYII=",
     blurWidth: 5,
     blurHeight: 8
 };
@@ -845,7 +845,7 @@ if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelper
 
 var { g: global, __dirname } = __turbopack_context__;
 {
-__turbopack_context__.v("/_next/static/media/esfj.4b419114.png");}}),
+__turbopack_context__.v("/_next/static/media/esfj.4d6d8083.png");}}),
 "[project]/src/assets/4.result/esfj.png.mjs { IMAGE => \"[project]/src/assets/4.result/esfj.png (static in ecmascript)\" } [app-client] (structured image object, ecmascript)": ((__turbopack_context__) => {
 "use strict";
 
@@ -860,7 +860,7 @@ const __TURBOPACK__default__export__ = {
     src: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$4$2e$result$2f$esfj$2e$png__$28$static__in__ecmascript$29$__["default"],
     width: 1080,
     height: 1920,
-    blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAICAYAAAAx8TU7AAAAKUlEQVR42r3OoQ0AAAgDwe6/EEswBjsQgii+QVecefWILCrMNpUvfksHrCWXafgwGeEAAAAASUVORK5CYII=",
+    blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAICAYAAAAx8TU7AAAAk0lEQVR42h3GwQqCMACA4b1r79QD1DGJniAIqotBZYdQ01LXhm46WWjd/qjDB5+QRYHSlmtSkqQZLt8hrJaUcchpG3CPz7yMRPRG8QhnRMsJ89mUxTpGyMaTVi3WaIJNympfITLlifKOS96Sq55h/CCG8f3PITbcpMP5EVGbFmMdT62x7Y9CdLXE6hJvC/omotNHvqWzkCqk5WDjAAAAAElFTkSuQmCC",
     blurWidth: 5,
     blurHeight: 8
 };
@@ -872,7 +872,7 @@ if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelper
 
 var { g: global, __dirname } = __turbopack_context__;
 {
-__turbopack_context__.v("/_next/static/media/intp.4b419114.png");}}),
+__turbopack_context__.v("/_next/static/media/intp.faf48545.png");}}),
 "[project]/src/assets/4.result/intp.png.mjs { IMAGE => \"[project]/src/assets/4.result/intp.png (static in ecmascript)\" } [app-client] (structured image object, ecmascript)": ((__turbopack_context__) => {
 "use strict";
 
@@ -887,7 +887,7 @@ const __TURBOPACK__default__export__ = {
     src: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$4$2e$result$2f$intp$2e$png__$28$static__in__ecmascript$29$__["default"],
     width: 1080,
     height: 1920,
-    blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAICAYAAAAx8TU7AAAAKUlEQVR42r3OoQ0AAAgDwe6/EEswBjsQgii+QVecefWILCrMNpUvfksHrCWXafgwGeEAAAAASUVORK5CYII=",
+    blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAICAYAAAAx8TU7AAAAlElEQVR42h3LzQqCQAAA4X3/R4mgLnWMLgVSkUQmLqnt6q5a5i9at0m6zWE+kSqFsSXuTWF1TBvvEGVmaKo3sXSQ7pb+lSDaMsfcHYw/Y7U9MN9IRPrsiNKSrh9Y7DTL/XSGtsPXNb6qiWzDMH4Rw/j5h68qkqKl7ceJZwVZXqAfksTmhNogIu+IDk5Yb40MXC7XMz9x7JDDaBZJVQAAAABJRU5ErkJggg==",
     blurWidth: 5,
     blurHeight: 8
 };
@@ -899,7 +899,7 @@ if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelper
 
 var { g: global, __dirname } = __turbopack_context__;
 {
-__turbopack_context__.v("/_next/static/media/intj.4b419114.png");}}),
+__turbopack_context__.v("/_next/static/media/intj.a3fc1825.png");}}),
 "[project]/src/assets/4.result/intj.png.mjs { IMAGE => \"[project]/src/assets/4.result/intj.png (static in ecmascript)\" } [app-client] (structured image object, ecmascript)": ((__turbopack_context__) => {
 "use strict";
 
@@ -914,7 +914,7 @@ const __TURBOPACK__default__export__ = {
     src: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$4$2e$result$2f$intj$2e$png__$28$static__in__ecmascript$29$__["default"],
     width: 1080,
     height: 1920,
-    blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAICAYAAAAx8TU7AAAAKUlEQVR42r3OoQ0AAAgDwe6/EEswBjsQgii+QVecefWILCrMNpUvfksHrCWXafgwGeEAAAAASUVORK5CYII=",
+    blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAICAYAAAAx8TU7AAAAlUlEQVR42hWNOQ6CQAAA98u+w09o5xErW2yMtkYLQYJyH8uyHKtA7EbsZorJiDSKyHLNzQ4pkhATnBG6yKhKxXK1QaYxvU4RRktkYLOYz9juj6wtF5GpN44viTyH9eHB7hQj3MRgXQquT42fdwzjd8o/I1U7cA8b4tLwd6G0QtcaqUrarp24nu65R1sG9E1Cp0Ka4sUPsUGQTU4wzBIAAAAASUVORK5CYII=",
     blurWidth: 5,
     blurHeight: 8
 };
@@ -926,7 +926,7 @@ if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelper
 
 var { g: global, __dirname } = __turbopack_context__;
 {
-__turbopack_context__.v("/_next/static/media/istp.4b419114.png");}}),
+__turbopack_context__.v("/_next/static/media/istp.d343c32d.png");}}),
 "[project]/src/assets/4.result/istp.png.mjs { IMAGE => \"[project]/src/assets/4.result/istp.png (static in ecmascript)\" } [app-client] (structured image object, ecmascript)": ((__turbopack_context__) => {
 "use strict";
 
@@ -941,7 +941,7 @@ const __TURBOPACK__default__export__ = {
     src: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$4$2e$result$2f$istp$2e$png__$28$static__in__ecmascript$29$__["default"],
     width: 1080,
     height: 1920,
-    blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAICAYAAAAx8TU7AAAAKUlEQVR42r3OoQ0AAAgDwe6/EEswBjsQgii+QVecefWILCrMNpUvfksHrCWXafgwGeEAAAAASUVORK5CYII=",
+    blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAICAYAAAAx8TU7AAAAk0lEQVR42g3Juw6CMBiA0b7/W7g6aOLkQlw0GKOLRoIDlxIuBX+KBQG3T9ZzVK41RSlEcY6rM1xyQklVIKbkfj0QBf4SGuXEcPP3nL0VO+/C2nuhiqYnLjv678jmqNmeMlRS9TwSyzO1S34Ypx9qnGaGcSZYMKsdbphQphEaEUydY7sWaQX1LlMqHWJNSFcn2CriD0jZkYvoOJe3AAAAAElFTkSuQmCC",
     blurWidth: 5,
     blurHeight: 8
 };
@@ -953,7 +953,7 @@ if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelper
 
 var { g: global, __dirname } = __turbopack_context__;
 {
-__turbopack_context__.v("/_next/static/media/istj.4b419114.png");}}),
+__turbopack_context__.v("/_next/static/media/istj.ecdd22d2.png");}}),
 "[project]/src/assets/4.result/istj.png.mjs { IMAGE => \"[project]/src/assets/4.result/istj.png (static in ecmascript)\" } [app-client] (structured image object, ecmascript)": ((__turbopack_context__) => {
 "use strict";
 
@@ -968,7 +968,7 @@ const __TURBOPACK__default__export__ = {
     src: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$4$2e$result$2f$istj$2e$png__$28$static__in__ecmascript$29$__["default"],
     width: 1080,
     height: 1920,
-    blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAICAYAAAAx8TU7AAAAKUlEQVR42r3OoQ0AAAgDwe6/EEswBjsQgii+QVecefWILCrMNpUvfksHrCWXafgwGeEAAAAASUVORK5CYII=",
+    blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAICAYAAAAx8TU7AAAAkUlEQVR42g3DywqCQBSA4Xn/R4nAdUSbQoIiKAhK8ZKmjuOcnNTUdn8tPlVkGUVpuYU5nflLfZTokqbWxMEe87zzkQLVSU1TPdDxCm+9Y7EJUKXtiUvHyzmW2wTPz1GZGTiFwjkSkurNOH1R4zQzjDPHwBIVDtdPKG0EY4WqTpDW0UiLyoMLVXJlsAekTrE64wegRJHoXc9eWwAAAABJRU5ErkJggg==",
     blurWidth: 5,
     blurHeight: 8
 };
@@ -980,7 +980,7 @@ if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelper
 
 var { g: global, __dirname } = __turbopack_context__;
 {
-__turbopack_context__.v("/_next/static/media/entp.4b419114.png");}}),
+__turbopack_context__.v("/_next/static/media/entp.70e9ebc0.png");}}),
 "[project]/src/assets/4.result/entp.png.mjs { IMAGE => \"[project]/src/assets/4.result/entp.png (static in ecmascript)\" } [app-client] (structured image object, ecmascript)": ((__turbopack_context__) => {
 "use strict";
 
@@ -995,7 +995,7 @@ const __TURBOPACK__default__export__ = {
     src: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$4$2e$result$2f$entp$2e$png__$28$static__in__ecmascript$29$__["default"],
     width: 1080,
     height: 1920,
-    blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAICAYAAAAx8TU7AAAAKUlEQVR42r3OoQ0AAAgDwe6/EEswBjsQgii+QVecefWILCrMNpUvfksHrCWXafgwGeEAAAAASUVORK5CYII=",
+    blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAICAYAAAAx8TU7AAAAjUlEQVR42h3GvRbBMBiA4dz/pRiYjCZstlZplWgkbaNfS+iP7eUYnnMeZYsCVwpJZgj+R29RUjk6EaIowltNLxYVpEZqyylLWK4PzFYp6uZf6CrwHibmm4LF1qByF4ivHUnRcSmf9OMHNYzTP7u0IbcPujCgrKvwjaBNibR3msahdBbjzJnWW2qzR9yRL8+jkkII8ymfAAAAAElFTkSuQmCC",
     blurWidth: 5,
     blurHeight: 8
 };
@@ -1007,7 +1007,7 @@ if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelper
 
 var { g: global, __dirname } = __turbopack_context__;
 {
-__turbopack_context__.v("/_next/static/media/entj.4b419114.png");}}),
+__turbopack_context__.v("/_next/static/media/entj.b9c093c1.png");}}),
 "[project]/src/assets/4.result/entj.png.mjs { IMAGE => \"[project]/src/assets/4.result/entj.png (static in ecmascript)\" } [app-client] (structured image object, ecmascript)": ((__turbopack_context__) => {
 "use strict";
 
@@ -1022,7 +1022,7 @@ const __TURBOPACK__default__export__ = {
     src: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$4$2e$result$2f$entj$2e$png__$28$static__in__ecmascript$29$__["default"],
     width: 1080,
     height: 1920,
-    blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAICAYAAAAx8TU7AAAAKUlEQVR42r3OoQ0AAAgDwe6/EEswBjsQgii+QVecefWILCrMNpUvfksHrCWXafgwGeEAAAAASUVORK5CYII=",
+    blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAICAYAAAAx8TU7AAAAl0lEQVR42h3DOwrCMACA4Rzbi7joDRQRXJwURBwUBB/4qlqbNG1qGsTUPtx+weETWkqMcRwDxTtT+McC4UyCtw+i3QinA0qnEd5lHNZjOu0W3f6U3uSCiG3BKcrRxjKYRwwXChGagtU5Z3NzhOmbqv4iqrqhrBpO8kX89PhPjVA6Jc0ssQqx7vUn7vsl+rolCWYk8kqeSn7qMZAA81Pt6wAAAABJRU5ErkJggg==",
     blurWidth: 5,
     blurHeight: 8
 };
@@ -1034,7 +1034,7 @@ if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelper
 
 var { g: global, __dirname } = __turbopack_context__;
 {
-__turbopack_context__.v("/_next/static/media/estp.4b419114.png");}}),
+__turbopack_context__.v("/_next/static/media/estp.d808f252.png");}}),
 "[project]/src/assets/4.result/estp.png.mjs { IMAGE => \"[project]/src/assets/4.result/estp.png (static in ecmascript)\" } [app-client] (structured image object, ecmascript)": ((__turbopack_context__) => {
 "use strict";
 
@@ -1049,7 +1049,7 @@ const __TURBOPACK__default__export__ = {
     src: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$4$2e$result$2f$estp$2e$png__$28$static__in__ecmascript$29$__["default"],
     width: 1080,
     height: 1920,
-    blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAICAYAAAAx8TU7AAAAKUlEQVR42r3OoQ0AAAgDwe6/EEswBjsQgii+QVecefWILCrMNpUvfksHrCWXafgwGeEAAAAASUVORK5CYII=",
+    blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAICAYAAAAx8TU7AAAAk0lEQVR42g3NSQ6CMABA0d7/JMZEV26NJoaNGxMxTshUhlIoQ5lk9/UET6RxTK4MicwYK4kNHYRRGVopPu87jYoYTYqwpmBoDe7lyGp3YL1/IRLdEypL21k2p5CtIxF+3nN+VrhBTZB3TPOCmOYv47TwiBuktthhRpSVodAlfiRpmhRT/yGdeFR5SODd6LRLW1z5AcXhkix9kVVkAAAAAElFTkSuQmCC",
     blurWidth: 5,
     blurHeight: 8
 };
@@ -1061,7 +1061,7 @@ if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelper
 
 var { g: global, __dirname } = __turbopack_context__;
 {
-__turbopack_context__.v("/_next/static/media/estj.4b419114.png");}}),
+__turbopack_context__.v("/_next/static/media/estj.fcc94f4f.png");}}),
 "[project]/src/assets/4.result/estj.png.mjs { IMAGE => \"[project]/src/assets/4.result/estj.png (static in ecmascript)\" } [app-client] (structured image object, ecmascript)": ((__turbopack_context__) => {
 "use strict";
 
@@ -1076,7 +1076,7 @@ const __TURBOPACK__default__export__ = {
     src: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$4$2e$result$2f$estj$2e$png__$28$static__in__ecmascript$29$__["default"],
     width: 1080,
     height: 1920,
-    blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAICAYAAAAx8TU7AAAAKUlEQVR42r3OoQ0AAAgDwe6/EEswBjsQgii+QVecefWILCrMNpUvfksHrCWXafgwGeEAAAAASUVORK5CYII=",
+    blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAICAYAAAAx8TU7AAAAkElEQVR42hXIuw6CMABA0f7/lzgZd42TLCaSYIglKM9CoVApNkLcrjqeI5qqotWWSFb0TcmrCBC2axj6DnmLSeILk84Q09CSpVfKTLI7Rmz2EqGMJ1UO/17Znmq2QY2Q9cwh7AjvllzPLOsHMfuV0S2ck4FH6/hbjHbEDIZCaazzGDv9Uqf0SlLlCU/T0qmcL1zckVtp+A/XAAAAAElFTkSuQmCC",
     blurWidth: 5,
     blurHeight: 8
 };
@@ -1166,7 +1166,7 @@ function ResultPage() {
     };
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$component$2f$layout$2f$MobileFrame$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-            className: "flex flex-col justify-center items-center h-full overflow-hidden py-6",
+            className: "flex flex-col justify-center items-center h-full overflow-hidden py-16",
             children: [
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                     className: "text-xl font-semibold text-[#004AAD]",
@@ -1177,7 +1177,7 @@ function ResultPage() {
                     columnNumber: 9
                 }, this),
                 resultImage && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                    className: "w-[250px] h-auto mt-4 relative",
+                    className: "flex justify-center items-center w-[350px] h-auto mt-4",
                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
                         src: resultImage,
                         alt: mbtiCode,

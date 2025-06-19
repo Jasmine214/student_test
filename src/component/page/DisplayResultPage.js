@@ -10,7 +10,7 @@ export default function DisplayResultPage({nextStep}) {
         <div>
         <div className="flex flex-col justify-center items-center h-full overflow-y-auto py-6">
 
-            <div className='text-bold text-[#004AAD] my-[30px]'> 你的屬性已經被看穿⋯⋯ 接招吧！ </div>
+            <div className='text-xl font-semibold text-[#004AAD] my-[30px]'> 你的屬性已經被看穿⋯⋯ 接招吧！ </div>
             <div 
               className={` bg-[#004AAD] w-[200px] text-white 
                 py-[16px] text-xl flex justify-center items-center font-medium 

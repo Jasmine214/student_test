@@ -56,14 +56,14 @@ export default function ResultPage() {
 
   return (
     <MobileFrame>
-        <div className="flex flex-col justify-center items-center h-full overflow-hidden py-6">
+        <div className="flex flex-col justify-center items-center h-full overflow-hidden py-16">
         {/* 顯示固定標題 */}
 
         <h2 className="text-xl font-semibold text-[#004AAD]"> 你是⋯⋯ </h2>
 
         {/* 顯示對應圖片 */}
         {resultImage && (
-          <div className="w-[250px] h-auto mt-4 relative">
+          <div className="flex justify-center items-center w-[350px] h-auto mt-4">
             <Image
               src={resultImage}
               alt={mbtiCode}
