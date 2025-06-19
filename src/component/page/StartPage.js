@@ -11,9 +11,9 @@ export default function StartPage({nextStep}) {
   return (
     <>
       <MobileFrame>
-        <div className='flex justify-center items-center flex-col gap-[60px]'>
-          <Image className=' absolute top-0 -translate-y-1/2 ' src={circle1Img} alt='circle1Img' />
-          <Image src={titleImg} alt='title' />
+        <div className="flex flex-col justify-between h-full overflow-y-auto py-6">
+
+
           <div className='text-[#B95F0F] font-[500] text-center text-[14px]
            leading-loose tracking-wide '>
             大學生測驗介紹<br/>
@@ -23,7 +23,7 @@ export default function StartPage({nextStep}) {
             大學生測驗介紹
           </div>
           <Image onClick={nextStep} className='w-[160px]' src={startBtn} alt='startBtn' />
-          <Image className=' absolute bottom-0 translate-y-1/2 pointer-events-none ' src={circle1Img} alt='circle1Img' />
+         
         </div>
       </MobileFrame>
     </>

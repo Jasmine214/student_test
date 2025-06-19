@@ -81,15 +81,6 @@ const useQuestionStore = create((set) => ({
         { title: "等朋友組讀書會再開始比較有動力", value: "P" }
       ]
     },
-    "5": {
-      title: "如果大學是一場旅程，你希望自己...",
-      options: [
-        { title: "把握每個機會，體驗豐富又精采的故事", value: "A" },
-        { title: "穩穩走好每一步，學會踏實與堅定", value: "B" },
-        { title: "遇見很多人，從關係中理解自己", value: "C" },
-        { title: "有一段屬於自己的時間和空間", value: "D" }
-      ]
-    }
   }
 }))
 

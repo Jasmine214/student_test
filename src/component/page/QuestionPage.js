@@ -49,10 +49,10 @@ export default function QuestionPage({ questionIndex, nextStep }) {
           shadow: '#6D28D9',
         }
       case 4:
-        return {
-          bg: '#F59E0B',
-          shadow: '#D97706',
-        }
+          return {
+            bg: '#8B5CF6',
+            shadow: '#6D28D9',
+          }
       default:
         return {
           bg: '#CCCCCC',
