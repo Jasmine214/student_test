@@ -8,12 +8,13 @@ export default function DisplayResultPage({nextStep}) {
     <>
       <MobileFrame>
         <div>
-        <div className="flex flex-col justify-between h-full overflow-y-auto py-6">
+        <div className="flex flex-col justify-center items-center h-full overflow-y-auto py-6">
 
+            <div className='text-bold text-[#004AAD] my-[30px]'> 你的屬性已經被看穿⋯⋯ 接招吧！ </div>
             <div 
-              className={` bg-[#89BCFF] w-full rounded-full text-white 
-                py-[16px] text-sm flex justify-center items-center font-medium 
-                shadow-[0px_4px_0px_1px_#1098EC] cursor-pointer hover:translate-y-0.5 transition`}
+              className={` bg-[#004AAD] w-[200px] text-white 
+                py-[16px] text-xl flex justify-center items-center font-medium 
+                cursor-pointer hover:translate-y-0.5 transition`}
               onClick={nextStep}
             > 查看結果 </div>
         </div>

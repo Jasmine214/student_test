@@ -495,18 +495,9 @@ function QuestionPage({ questionIndex, nextStep }) {
         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
             className: "flex flex-col items-center gap-[26px]",
             children: [
-                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
-                    src: __TURBOPACK__imported__module__$5b$project$5d2f$public$2f$1$2e$question$2f$q1$2d$up$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$public$2f$1$2e$question$2f$q1$2d$up$2e$png__$28$static__in__ecmascript$2922$__$7d$__$5b$app$2d$ssr$5d$__$28$structured__image__object$2c$__ecmascript$29$__["default"],
-                    className: "w-[88px]",
-                    alt: "q1Up"
-                }, void 0, false, {
-                    fileName: "[project]/src/component/page/QuestionPage.js",
-                    lineNumber: 65,
-                    columnNumber: 9
-                }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                     className: `text-white border-2 rounded-full w-[48px] h-[48px]
-            flex justify-center items-center font-bold text-xl`,
+            flex justify-center items-center font-bold text-xl mt-5`,
                     style: {
                         borderColor: shadow,
                         backgroundColor: bg
@@ -521,7 +512,7 @@ function QuestionPage({ questionIndex, nextStep }) {
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                    className: `text-center font-bold text-3xl mb-[60px]`,
+                    className: `text-center font-bold text-xl my-[30px]`,
                     style: {
                         color: bg
                     },
@@ -543,16 +534,7 @@ function QuestionPage({ questionIndex, nextStep }) {
                         fileName: "[project]/src/component/page/QuestionPage.js",
                         lineNumber: 83,
                         columnNumber: 11
-                    }, this)),
-                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
-                    src: __TURBOPACK__imported__module__$5b$project$5d2f$public$2f$1$2e$question$2f$q1$2d$down$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$public$2f$1$2e$question$2f$q1$2d$down$2e$png__$28$static__in__ecmascript$2922$__$7d$__$5b$app$2d$ssr$5d$__$28$structured__image__object$2c$__ecmascript$29$__["default"],
-                    className: "w-[88px]",
-                    alt: "q1Down"
-                }, void 0, false, {
-                    fileName: "[project]/src/component/page/QuestionPage.js",
-                    lineNumber: 98,
-                    columnNumber: 9
-                }, this)
+                    }, this))
             ]
         }, void 0, true, {
             fileName: "[project]/src/component/page/QuestionPage.js",
@@ -584,19 +566,29 @@ function DisplayResultPage({ nextStep }) {
         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$component$2f$layout$2f$MobileFrame$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                    className: "flex flex-col justify-between h-full overflow-y-auto py-6",
-                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                        className: ` bg-[#89BCFF] w-full rounded-full text-white 
-                py-[16px] text-sm flex justify-center items-center font-medium 
-                shadow-[0px_4px_0px_1px_#1098EC] cursor-pointer hover:translate-y-0.5 transition`,
-                        onClick: nextStep,
-                        children: " 查看結果 "
-                    }, void 0, false, {
-                        fileName: "[project]/src/component/page/DisplayResultPage.js",
-                        lineNumber: 13,
-                        columnNumber: 13
-                    }, this)
-                }, void 0, false, {
+                    className: "flex flex-col justify-center items-center h-full overflow-y-auto py-6",
+                    children: [
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                            className: "text-bold text-[#004AAD] my-[30px]",
+                            children: " 你的屬性已經被看穿⋯⋯ 接招吧！ "
+                        }, void 0, false, {
+                            fileName: "[project]/src/component/page/DisplayResultPage.js",
+                            lineNumber: 13,
+                            columnNumber: 13
+                        }, this),
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                            className: ` bg-[#004AAD] w-[200px] text-white 
+                py-[16px] text-xl flex justify-center items-center font-medium 
+                cursor-pointer hover:translate-y-0.5 transition`,
+                            onClick: nextStep,
+                            children: " 查看結果 "
+                        }, void 0, false, {
+                            fileName: "[project]/src/component/page/DisplayResultPage.js",
+                            lineNumber: 14,
+                            columnNumber: 13
+                        }, this)
+                    ]
+                }, void 0, true, {
                     fileName: "[project]/src/component/page/DisplayResultPage.js",
                     lineNumber: 11,
                     columnNumber: 9
@@ -1070,29 +1062,20 @@ const mbtiImages = {
 function ResultPage() {
     const mbti = (0, __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$store$2f$store$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["usePsyStore"])((s)=>s.mbti);
     const mbtiCode = (0, __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$store$2f$store$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["getMBTIResult"])(mbti); // 例如 "INFP"
-    const profile = (0, __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$store$2f$store$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["getMBTIProfile"])(mbtiCode);
-    const resultImage = mbtiImages[mbtiCode]; // 對應圖片
+    const resultImage = mbtiImages[mbtiCode];
     const playAgain = ()=>{
         window.location.reload();
     };
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$component$2f$layout$2f$MobileFrame$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-            className: "flex flex-col items-center gap-4 px-4 text-center",
+            className: "flex flex-col justify-center items-center h-full overflow-hidden py-6",
             children: [
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
-                    className: "text-2xl font-bold",
-                    children: profile.name
+                    className: "text-xl font-semibold text-[#004AAD]",
+                    children: " 你是⋯⋯ "
                 }, void 0, false, {
                     fileName: "[project]/src/component/page/ResultPage.js",
-                    lineNumber: 63,
-                    columnNumber: 9
-                }, this),
-                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                    className: "text-gray-700 text-lg",
-                    children: profile.description
-                }, void 0, false, {
-                    fileName: "[project]/src/component/page/ResultPage.js",
-                    lineNumber: 64,
+                    lineNumber: 62,
                     columnNumber: 9
                 }, this),
                 resultImage && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1100,38 +1083,39 @@ function ResultPage() {
                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
                         src: resultImage,
                         alt: mbtiCode,
-                        layout: "responsive",
-                        width: 250,
+                        width: 260,
                         height: 300,
                         className: "rounded-lg"
                     }, void 0, false, {
                         fileName: "[project]/src/component/page/ResultPage.js",
-                        lineNumber: 69,
+                        lineNumber: 67,
                         columnNumber: 13
                     }, this)
                 }, void 0, false, {
                     fileName: "[project]/src/component/page/ResultPage.js",
-                    lineNumber: 68,
+                    lineNumber: 66,
                     columnNumber: 11
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                    className: "mt-6 bg-[#89BCFF] w-full rounded-full text-white  py-[16px] text-sm flex justify-center items-center font-medium  shadow-[0px_4px_0px_1px_#1098EC] cursor-pointer hover:translate-y-0.5 transition",
+                    className: `mt-6 bg-[#004AAD] w-[200px] text-white 
+                py-[16px] text-l flex justify-center items-center font-medium 
+                cursor-pointer hover:translate-y-0.5 transition`,
                     onClick: playAgain,
-                    children: "再玩一次"
+                    children: " 再玩一次 "
                 }, void 0, false, {
                     fileName: "[project]/src/component/page/ResultPage.js",
-                    lineNumber: 81,
+                    lineNumber: 78,
                     columnNumber: 9
                 }, this)
             ]
         }, void 0, true, {
             fileName: "[project]/src/component/page/ResultPage.js",
-            lineNumber: 61,
-            columnNumber: 7
+            lineNumber: 59,
+            columnNumber: 9
         }, this)
     }, void 0, false, {
         fileName: "[project]/src/component/page/ResultPage.js",
-        lineNumber: 60,
+        lineNumber: 58,
         columnNumber: 5
     }, this);
 }

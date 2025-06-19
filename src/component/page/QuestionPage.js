@@ -62,18 +62,18 @@ export default function QuestionPage({ questionIndex, nextStep }) {
     <MobileFrame>
 
       <div className="flex flex-col items-center gap-[26px]">
-        <Image src={q1Up} className="w-[88px]" alt="q1Up" />
+        {/* <Image src={q1Up} className="w-[88px]" alt="q1Up" /> */}
 
         <div
           className={`text-white border-2 rounded-full w-[48px] h-[48px]
-            flex justify-center items-center font-bold text-xl`}
+            flex justify-center items-center font-bold text-xl mt-5`}
           style={{ borderColor: shadow, backgroundColor: bg }}
         >
           Q{questionIndex + 1}
         </div>
 
         <div
-          className={`text-center font-bold text-3xl mb-[60px]`}
+          className={`text-center font-bold text-xl my-[30px]`}
           style={{ color: bg }}
         >
           {question.title}
@@ -95,7 +95,7 @@ export default function QuestionPage({ questionIndex, nextStep }) {
           </div>
         ))}
 
-        <Image src={q1Down} className="w-[88px]" alt="q1Down" />
+        {/* <Image src={q1Down} className="w-[88px]" alt="q1Down" /> */}
       </div>
 
     </MobileFrame>

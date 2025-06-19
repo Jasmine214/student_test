@@ -5,7 +5,6 @@ import Image from 'next/image';
 import {
   usePsyStore,
   getMBTIResult,
-  getMBTIProfile,
 } from '@/app/store/store';
 
 // 匯入所有 MBTI 類型圖片（從 assets）
@@ -49,8 +48,7 @@ const mbtiImages = {
 export default function ResultPage() {
   const mbti = usePsyStore((s) => s.mbti);
   const mbtiCode = getMBTIResult(mbti); // 例如 "INFP"
-  const profile = getMBTIProfile(mbtiCode);
-  const resultImage = mbtiImages[mbtiCode]; // 對應圖片
+  const resultImage = mbtiImages[mbtiCode];
 
   const playAgain = () => {
     window.location.reload();
@@ -58,10 +56,10 @@ export default function ResultPage() {
 
   return (
     <MobileFrame>
-      <div className="flex flex-col items-center gap-4 px-4 text-center">
-        {/* 結果標題與描述 */}
-        <h2 className="text-2xl font-bold">{profile.name}</h2>
-        <p className="text-gray-700 text-lg">{profile.description}</p>
+        <div className="flex flex-col justify-center items-center h-full overflow-hidden py-6">
+        {/* 顯示固定標題 */}
+
+        <h2 className="text-xl font-semibold text-[#004AAD]"> 你是⋯⋯ </h2>
 
         {/* 顯示對應圖片 */}
         {resultImage && (
@@ -69,8 +67,7 @@ export default function ResultPage() {
             <Image
               src={resultImage}
               alt={mbtiCode}
-              layout="responsive"
-              width={250}
+              width={260}
               height={300}
               className="rounded-lg"
             />
@@ -78,14 +75,12 @@ export default function ResultPage() {
         )}
 
         {/* 再玩一次 */}
-        <div
-          className="mt-6 bg-[#89BCFF] w-full rounded-full text-white 
-          py-[16px] text-sm flex justify-center items-center font-medium 
-          shadow-[0px_4px_0px_1px_#1098EC] cursor-pointer hover:translate-y-0.5 transition"
-          onClick={playAgain}
-        >
-          再玩一次
-        </div>
+        <div 
+              className={`mt-6 bg-[#004AAD] w-[200px] text-white 
+                py-[16px] text-l flex justify-center items-center font-medium 
+                cursor-pointer hover:translate-y-0.5 transition`}
+              onClick={playAgain}
+            > 再玩一次 </div>
       </div>
     </MobileFrame>
   );
